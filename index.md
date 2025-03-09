@@ -6,13 +6,14 @@ layout: default
 <p style="font-size: 1.2em; color: #666;" data-ke-size="size16">
 Vulnerability Researcher
 </p>
-
+&nbsp;
 
 ## About Me
 
 <img class="profile-picture" src="Rebekah.jpg">
 
 I aspire to be the world's best in the field of vulnerability research, exploitation
+&nbsp;
 &nbsp;
 
 ## EDUCATION
