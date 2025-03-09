@@ -63,21 +63,13 @@ Vulnerability Researcher
 &nbsp;
 
 ## Skill Set
->Vulerability Research - 
-<br>
-Pwnable: IoT
-<br>
-Reversing
-<br>
-Coding - C,C++ Assembly Python
-
-<section>
+><section>
 <h2 style="margin-bottom: 1rem">Skill</h2>
         <ul>
           <li>Programming <small>Assembly, C/C++, Web, Python</small></li>
           <li>
-            Security
-            <small>RE / Web / System hacking</small>
+            Vulerability Research
+            <small>Pwnable(Stack, Heap, IoT) / Reversing</small>
           </li>
         </ul>
 </section>
