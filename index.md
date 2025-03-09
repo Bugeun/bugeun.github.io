@@ -71,11 +71,22 @@ Reversing
 <br>
 Coding - C,C++ Assembly Python
 
+<section>
+<h2 style="margin-bottom: 1rem">Skill</h2>
+        <ul>
+          <li>Programming <small>Assembly, C/C++, Web, Python</small></li>
+          <li>
+            Security
+            <small>RE / Web / System hacking</small>
+          </li>
+        </ul>
+</section>
+
 ## Publications
 
 1. 
 2. 
-
+&nbsp;
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
