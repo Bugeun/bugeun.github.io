@@ -9,10 +9,10 @@ Vulnerability Researcher
 </p>
 &nbsp;
 
-## About
+## About Me
 
-I aspire to be the world's best in the field of vulnerability research, exploitation
-<br>
+<p>I aspire to be the world's best in the field of vulnerability research, exploitation</p>
+&nbsp;
 
 ## EDUCATION
 
