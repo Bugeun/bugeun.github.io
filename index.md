@@ -62,10 +62,16 @@ Vulnerability Researcher
 </p>
 &nbsp;
 
+## Skill Set
+>Vulerability Research - 
+Pwnable: IoT
+Reversing
+Coding - C,C++ Assembly Python WEB AI
+
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. 
+2. 
 
 ## Typography
 
