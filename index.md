@@ -13,11 +13,11 @@ Vulnerability Researcher
 <img class="profile-picture" src="Rebekah.jpg">
 
 I aspire to be the world's best in the field of vulnerability research, exploitation
+&nbsp;
 
 ## EDUCATION
 
 <p data-ke-size="size14">Major in Applied Music</p>
-&nbsp;
 <p data-ke-size="size16">
 <b>[2013 - 2014] KITRI Best of the Best 2th</b>
 </p>
@@ -25,12 +25,7 @@ I aspire to be the world's best in the field of vulnerability research, exploita
 &nbsp;
 
 ## EXPERIENCE
-
-<h2 data-ke-size="size26"><b>EXPERIENCE</b></h2>
-<hr>
 <p data-ke-size="size16">[2024.04 - Till now] SK Shieldus | Senior Researcher</p>
-&nbsp;
-<p data-ke-size="size14">&nbsp;</p>
 <h2 data-ke-size="size26"><b>Vulnerability Reports</b></h2>
 <hr>
 <p data-ke-size="size16">[2013] OCS (Order Communication System) at a Major Hospital in Changwon</p>
@@ -62,13 +57,13 @@ I aspire to be the world's best in the field of vulnerability research, exploita
 <p data-ke-size="size16">
 <b>[2012] President's Award</b> - Korea Internet &amp; Security Agency Cyber Attack Scenario Contest
 </p>
-
+&nbsp;
 
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
+&nbsp;
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
@@ -88,7 +83,7 @@ Here is a horizontal rule
 Here is a blockquote
 
 > To a great mind, nothing is little
-
+&nbsp;
 ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
