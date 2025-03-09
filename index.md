@@ -37,10 +37,10 @@ Vulnerability Researcher
 ## ACHIEVEMENTS
 
 <p data-ke-size="size16">
-<b>[2025] Pwn2Own Automotive Tokyo 2025</b> - Win a prize (Team SK Shieldus)
+<b>[2025] Pwn2Own Automotive Tokyo 2025</b> <small> Win a prize (Team SK Shieldus) </small>
 </p>
 <p data-ke-size="size16">
-<b>[2024] 6th, Block Harbor VicOne Automotive CTF - Season 2</b> - (Team a99)
+<b>[2024] 6th, Block Harbor VicOne Automotive CTF - Season 2</b> <small> (Team a99) </small>
 </p>
 <p data-ke-size="size16">
 <b>[2023] 11th, CakeCTF 2024</b>
@@ -49,16 +49,16 @@ Vulnerability Researcher
 <b>[2013] 5th, White Hat Contest</b>
 </p>
 <p data-ke-size="size16">
-<b>[2013] 11th, Codegate 2013 Final</b> - (Team ForbiddenBITS)
+<b>[2013] 11th, Codegate 2013 Final</b> <small>(Team ForbiddenBITS)</small>
 </p>
 <p data-ke-size="size16">
-<b>[2013] 8th, PHdays CTF Final</b> - (Team ForbiddenBITS)
+<b>[2013] 8th, PHdays CTF Final</b> <small>(Team ForbiddenBITS)</small>
 </p>
 <p data-ke-size="size16">
-<b>[2012] 8th, Nuit du Hack CTF</b> - (Team ForbiddenBITS)
+<b>[2012] 8th, Nuit du Hack CTF</b> <small>(Team ForbiddenBITS)</small>
 </p>
 <p data-ke-size="size16">
-<b>[2012] President's Award</b> - Korea Internet &amp; Security Agency Cyber Attack Scenario Contest
+<b>[2012] President's Award</b> <small>Korea Internet &amp; Security Agency Cyber Attack Scenario Contest</small>
 </p>
 &nbsp;
 
