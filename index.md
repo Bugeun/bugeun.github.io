@@ -72,6 +72,7 @@ Vulnerability Researcher
           </li>
         </ul>
 </section>
+&nbsp;
 
 ## Publications
 
