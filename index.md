@@ -63,7 +63,8 @@ Vulnerability Researcher
 &nbsp;
 
 ## Skill Set
-><section>
+>
+<section>
 <h2 style="margin-bottom: 1rem">Skill</h2>
         <ul>
           <li>Programming <small>Assembly, C/C++, Web, Python</small></li>
