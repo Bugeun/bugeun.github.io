@@ -1,4 +1,4 @@
-title: Researcher
+title: Bugeun
 url: "https://ankitsultana.com"
 baseurl: "/"
 
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://bugeun.github.io"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
