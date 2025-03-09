@@ -9,7 +9,7 @@ Vulnerability Researcher
 </p>
 &nbsp;
 
-## About Me
+## About
 
 I aspire to be the world's best in the field of vulnerability research, exploitation
 <br>
