@@ -12,14 +12,57 @@ Vulnerability Researcher
 
 <img class="profile-picture" src="Rebekah.jpg">
 
+I aspire to be the world's best in the field of vulnerability research, exploitation
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+## EDUCATION
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<p data-ke-size="size14">Major in Applied Music</p>
+&nbsp;
+<p data-ke-size="size16">
+<b>[2013 - 2014] KITRI Best of the Best 2th</b>
+</p>
+<p data-ke-size="size14">Vulnerability Analysis Track</p>
+&nbsp;
 
-## Research Interest
+## EXPERIENCE
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+<h2 data-ke-size="size26"><b>EXPERIENCE</b></h2>
+<hr>
+<p data-ke-size="size16">[2024.04 - Till now] SK Shieldus | Senior Researcher</p>
+&nbsp;
+<p data-ke-size="size14">&nbsp;</p>
+<h2 data-ke-size="size26"><b>Vulnerability Reports</b></h2>
+<hr>
+<p data-ke-size="size16">[2013] OCS (Order Communication System) at a Major Hospital in Changwon</p>
+&nbsp;
+
+## ACHIEVEMENTS
+
+<p data-ke-size="size16">
+        <b>[2025] Pwn2Own Automotive Tokyo 2025</b> - Win a prize (Team SK Shieldus)
+      </p>
+      <p data-ke-size="size16">
+        <b>[2024] 6th, Block Harbor VicOne Automotive CTF - Season 2</b> - (Team a99)
+      </p>
+      <p data-ke-size="size16">
+        <b>[2023] 11th, CakeCTF 2024</b>
+      </p>
+      <p data-ke-size="size16">
+        <b>[2013] 5th, White Hat Contest</b>
+      </p>
+      <p data-ke-size="size16">
+        <b>[2013] 11th, Codegate 2013 Final</b> - (Team ForbiddenBITS)
+      </p>
+      <p data-ke-size="size16">
+        <b>[2013] 8th, PHdays CTF Final</b> - (Team ForbiddenBITS)
+      </p>
+      <p data-ke-size="size16">
+        <b>[2012] 8th, Nuit du Hack CTF</b> - (Team ForbiddenBITS)
+      </p>
+      <p data-ke-size="size16">
+        <b>[2012] President's Award</b> - Korea Internet &amp; Security Agency Cyber Attack Scenario Contest
+      </p>
+
 
 ## Publications
 
