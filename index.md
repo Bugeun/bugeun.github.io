@@ -65,9 +65,9 @@ Vulnerability Researcher
 ## Skill Set
 <section>
         <ul>
-          <li>Programming <small>Assembly, C/C++, Web, Python</small></li>
+          <li><b>Programming</b> <small>Assembly, C/C++, Web, Python</small></li>
           <li>
-            Vulerability Research
+            <b>Vulerability Research</b>
             <small>Pwnable(Stack, Heap, IoT) / Reversing</small>
           </li>
         </ul>
