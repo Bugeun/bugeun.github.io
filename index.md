@@ -64,11 +64,11 @@ Vulnerability Researcher
 
 ## Skill Set
 >Vulerability Research - 
-&nbsp;
+<br>
 Pwnable: IoT
-&nbsp;
+<br>
 Reversing
-&nbsp;
+<br>
 Coding - C,C++ Assembly Python
 
 ## Publications
