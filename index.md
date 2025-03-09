@@ -39,29 +39,29 @@ I aspire to be the world's best in the field of vulnerability research, exploita
 ## ACHIEVEMENTS
 
 <p data-ke-size="size16">
-        <b>[2025] Pwn2Own Automotive Tokyo 2025</b> - Win a prize (Team SK Shieldus)
-      </p>
-      <p data-ke-size="size16">
-        <b>[2024] 6th, Block Harbor VicOne Automotive CTF - Season 2</b> - (Team a99)
-      </p>
-      <p data-ke-size="size16">
-        <b>[2023] 11th, CakeCTF 2024</b>
-      </p>
-      <p data-ke-size="size16">
-        <b>[2013] 5th, White Hat Contest</b>
-      </p>
-      <p data-ke-size="size16">
-        <b>[2013] 11th, Codegate 2013 Final</b> - (Team ForbiddenBITS)
-      </p>
-      <p data-ke-size="size16">
-        <b>[2013] 8th, PHdays CTF Final</b> - (Team ForbiddenBITS)
-      </p>
-      <p data-ke-size="size16">
-        <b>[2012] 8th, Nuit du Hack CTF</b> - (Team ForbiddenBITS)
-      </p>
-      <p data-ke-size="size16">
-        <b>[2012] President's Award</b> - Korea Internet &amp; Security Agency Cyber Attack Scenario Contest
-      </p>
+<b>[2025] Pwn2Own Automotive Tokyo 2025</b> - Win a prize (Team SK Shieldus)
+</p>
+<p data-ke-size="size16">
+<b>[2024] 6th, Block Harbor VicOne Automotive CTF - Season 2</b> - (Team a99)
+</p>
+<p data-ke-size="size16">
+<b>[2023] 11th, CakeCTF 2024</b>
+</p>
+<p data-ke-size="size16">
+<b>[2013] 5th, White Hat Contest</b>
+</p>
+<p data-ke-size="size16">
+<b>[2013] 11th, Codegate 2013 Final</b> - (Team ForbiddenBITS)
+</p>
+<p data-ke-size="size16">
+<b>[2013] 8th, PHdays CTF Final</b> - (Team ForbiddenBITS)
+</p>
+<p data-ke-size="size16">
+<b>[2012] 8th, Nuit du Hack CTF</b> - (Team ForbiddenBITS)
+</p>
+<p data-ke-size="size16">
+<b>[2012] President's Award</b> - Korea Internet &amp; Security Agency Cyber Attack Scenario Contest
+</p>
 
 
 ## Publications
