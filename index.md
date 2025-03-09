@@ -28,11 +28,11 @@ especially in software vulnerability assessment.</p>
 &nbsp;
 
 ## EXPERIENCE
-<p data-ke-size="size16">[2024.04 - Till now] SK Shieldus | Senior Researcher</p>
+<p data-ke-size="size16"><b>[2024.04 - Till now] SK Shieldus | Senior Researcher</b></p>
 &nbsp;
 
 ## VULNERABILITY REPORTS
-<p data-ke-size="size16">[2013] OCS (Order Communication System) at a Major Hospital in Changwon</p>
+<p data-ke-size="size16"><b>[2013] OCS (Order Communication System) at a Major Hospital in Changwon</b></p>
 &nbsp;
 
 ## ACHIEVEMENTS
