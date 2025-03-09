@@ -17,7 +17,10 @@ I aspire to be the world's best in the field of vulnerability research, exploita
 
 ## EDUCATION
 
-<p data-ke-size="size14">Major in Applied Music</p>
+<p data-ke-size="size16">
+<b>[2020 - 2023] Seoul Arts University</b>
+</p>
+<p data-ke-size="size14">Major in Applied Music</p>     
 <p data-ke-size="size16">
 <b>[2013 - 2014] KITRI Best of the Best 2th</b>
 </p>
@@ -26,8 +29,9 @@ I aspire to be the world's best in the field of vulnerability research, exploita
 
 ## EXPERIENCE
 <p data-ke-size="size16">[2024.04 - Till now] SK Shieldus | Senior Researcher</p>
-<h2 data-ke-size="size26"><b>Vulnerability Reports</b></h2>
-<hr>
+&nbsp;
+
+## Vulnerability Reports
 <p data-ke-size="size16">[2013] OCS (Order Communication System) at a Major Hospital in Changwon</p>
 &nbsp;
 
@@ -63,7 +67,7 @@ I aspire to be the world's best in the field of vulnerability research, exploita
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-&nbsp;
+
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
