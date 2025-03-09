@@ -76,9 +76,10 @@ Vulnerability Researcher
 
 ## Publications
 
-1. 
-2. 
+1. a
+2. b    
 &nbsp;
+
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
