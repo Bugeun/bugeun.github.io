@@ -20,6 +20,7 @@ especially in software vulnerability assessment.</p>
 * Reversing
 * Computer Architecture
 * Vulnerability Research & Exploitation
+
 &nbsp;
 
 ## EDUCATION
