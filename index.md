@@ -16,7 +16,10 @@ especially in software vulnerability assessment.</p>
 &nbsp;
 
 ><b>Interests</b>
-<small>System Hacking, Reversing, Computer Architecture, Vulnerability Research & Exploitation</small>
+* System Hacking
+* Reversing
+* Computer Architecture
+* Vulnerability Research & Exploitation
 &nbsp;
 
 ## EDUCATION
