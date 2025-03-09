@@ -14,7 +14,8 @@ Vulnerability Researcher
 <p>I aspire to be the world's best in the field of vulnerability research, exploitation
 especially in software vulnerability assessment.</p>
 &nbsp;
-<b>Interests</b>
+
+><b>Interests</b>
 <small>System Hacking, Reversing, Computer Architecture, Vulnerability Research & Exploitation</small>
 &nbsp;
 
