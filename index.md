@@ -11,7 +11,8 @@ Vulnerability Researcher
 
 ## ABOUT ME
 
-<p>I aspire to be the world's best in the field of vulnerability research, exploitation</p>
+<p>I aspire to be the world's best in the field of vulnerability research, exploitation,
+especially in software vulnerability assessment.</p>
 &nbsp;
 
 ## EDUCATION
@@ -65,10 +66,13 @@ Vulnerability Researcher
 ## SKILL SET
 <section>
         <ul>
-          <li><b>Programming</b> <small>Assembly, C/C++, Web, Python</small></li>
           <li>
-            <b>Vulerability Research</b>
+            <b>Software Vulerability Research</b>
             <small>Pwnable(Stack, Heap, IoT) / Reversing</small>
+          </li>
+          <li>
+            <b>Programming</b> 
+            <small>Assembly, C/C++, Web, Python</small>
           </li>
         </ul>
 </section>
