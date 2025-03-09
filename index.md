@@ -9,7 +9,7 @@ Vulnerability Researcher
 </p>
 &nbsp;
 
-## About Me
+## ABOUT ME
 
 <p>I aspire to be the world's best in the field of vulnerability research, exploitation</p>
 &nbsp;
@@ -30,7 +30,7 @@ Vulnerability Researcher
 <p data-ke-size="size16">[2024.04 - Till now] SK Shieldus | Senior Researcher</p>
 &nbsp;
 
-## Vulnerability Reports
+## VULNERABILITY REPORTS
 <p data-ke-size="size16">[2013] OCS (Order Communication System) at a Major Hospital in Changwon</p>
 &nbsp;
 
@@ -62,7 +62,7 @@ Vulnerability Researcher
 </p>
 &nbsp;
 
-## Skill Set
+## SKILL SET
 <section>
         <ul>
           <li><b>Programming</b> <small>Assembly, C/C++, Web, Python</small></li>
