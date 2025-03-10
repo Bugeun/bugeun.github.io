@@ -15,6 +15,13 @@ Vulnerability Researcher
 especially in software vulnerability assessment.</p>
 &nbsp;
 
+><b>Interests</b>
+* Vulnerability Research & Exploitation
+* Binary Analysis
+* Computer Architecture
+
+&nbsp;
+
 <h3> SKILL SET </h3>
 
 <section>
@@ -29,13 +36,6 @@ especially in software vulnerability assessment.</p>
           </li>
         </ul>
 </section>
-&nbsp;
-
-><b>Interests</b>
-* Vulnerability Research & Exploitation
-* Binary Analysis
-* Computer Architecture
-
 &nbsp;
 
 ## EDUCATION
