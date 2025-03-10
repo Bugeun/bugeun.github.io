@@ -22,7 +22,7 @@ especially in software vulnerability assessment.</p>
 
 &nbsp;
 
-<h3> SKILL SET </h3>
+## SKILL SET
 
 <section>
         <ul>
