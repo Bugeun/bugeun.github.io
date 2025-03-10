@@ -36,6 +36,8 @@ especially in software vulnerability assessment.</p>
 * Binary Analysis
 * Computer Architecture
 
+&nbsp;
+
 ## EDUCATION
 
 <p data-ke-size="size16">
