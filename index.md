@@ -68,7 +68,7 @@ especially in software vulnerability assessment.</p>
         <ul>
           <li>
             <b>Security</b>
-            <small>System Hacking, Reversing</small>
+            <small>System Hacking, Reversing, Web</small>
           </li>
           <li>
             <b>Programming</b> 
