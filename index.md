@@ -15,7 +15,7 @@ Vulnerability Researcher
 especially in software vulnerability assessment.</p>
 &nbsp;
 
-<h2> SKILL SET </h2>
+<h3> SKILL SET </h3>
 
 <section>
         <ul>
