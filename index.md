@@ -15,14 +15,6 @@ Vulnerability Researcher
 especially in software vulnerability assessment.</p>
 &nbsp;
 
-><b>Interests</b>
-* System Hacking
-* Reversing
-* Computer Architecture
-* Vulnerability Research & Exploitation
-
-&nbsp;
-
 ## EDUCATION
 
 <p data-ke-size="size16">
@@ -36,7 +28,7 @@ especially in software vulnerability assessment.</p>
 &nbsp;
 
 ## EXPERIENCE
-<p data-ke-size="size16"><b>[2024.04 - Till now] SK Shieldus | Senior Researcher</b></p>
+<p data-ke-size="size16"><b>[2024.04 - Till now] SK Shieldus | </b> Senior Researcher</p>
 &nbsp;
 
 ## VULNERABILITY REPORTS
@@ -84,4 +76,12 @@ especially in software vulnerability assessment.</p>
           </li>
         </ul>
 </section>
+&nbsp;
+
+><b>Interests</b>
+* System Hacking
+* Reversing
+* Computer Architecture
+* Vulnerability Research & Exploitation
+
 &nbsp;
