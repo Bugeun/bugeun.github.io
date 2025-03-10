@@ -52,7 +52,7 @@ especially in software vulnerability assessment.</p>
 <b>[2024] 6th, Block Harbor VicOne Automotive CTF - Season 2</b> <small> (Team a99) </small>
 </p>
 <p data-ke-size="size16">
-<b>[2023] 11th, CakeCTF 2024</b>
+<b>[2023] 11th, CakeCTF 2024</b> <small> (Team PhysicalLAB) </small>
 </p>
 <p data-ke-size="size16">
 <b>[2013] 5th, White Hat Contest</b>
@@ -76,7 +76,7 @@ especially in software vulnerability assessment.</p>
         <ul>
           <li>
             <b>Security</b>
-            <small>System Hacking, Reversing, Web</small>
+            <small>System Hacking, Reversing</small>
           </li>
           <li>
             <b>Programming</b> 
