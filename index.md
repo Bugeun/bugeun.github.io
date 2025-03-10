@@ -15,6 +15,14 @@ Vulnerability Researcher
 especially in software vulnerability assessment.</p>
 &nbsp;
 
+><b>Interests</b>
+* System Hacking
+* Reversing
+* Computer Architecture
+* Vulnerability Research & Exploitation
+
+&nbsp;
+
 ## EDUCATION
 
 <p data-ke-size="size16">
@@ -72,16 +80,8 @@ especially in software vulnerability assessment.</p>
           </li>
           <li>
             <b>Programming</b> 
-            <small>Assembly, C/C++, Web, Python</small>
+            <small>C/C++, Assembly, Web, Python</small>
           </li>
         </ul>
 </section>
-&nbsp;
-
-><b>Interests</b>
-* System Hacking
-* Reversing
-* Computer Architecture
-* Vulnerability Research & Exploitation
-
 &nbsp;
