@@ -17,13 +17,6 @@ especially in software vulnerability assessment.</p>
 
 ## SKILL SET
 
-><b>Interests</b>
-* Vulnerability Research & Exploitation
-* Binary Analysis
-* Computer Architecture
-
-&nbsp;
-
 <section>
         <ul>
           <li>
@@ -37,6 +30,11 @@ especially in software vulnerability assessment.</p>
         </ul>
 </section>
 &nbsp;
+
+><b>Interests</b>
+* Vulnerability Research & Exploitation
+* Binary Analysis
+* Computer Architecture
 
 ## EDUCATION
 
