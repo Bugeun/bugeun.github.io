@@ -17,11 +17,27 @@ especially in software vulnerability assessment.</p>
 
 ><b>Interests</b>
 * Vulnerability Research & Exploitation
-* System Hacking
-* Binary Analysis
 * Computer Architecture
 
 &nbsp;
+
+
+## SKILL SET
+
+<section>
+        <ul>
+          <li>
+            <b>Security</b>
+            <small>System Hacking, Reversing, Web</small>
+          </li>
+          <li>
+            <b>Programming</b> 
+            <small>C/C++, Assembly, Web, Python</small>
+          </li>
+        </ul>
+</section>
+&nbsp;
+
 
 ## EDUCATION
 
@@ -69,20 +85,4 @@ especially in software vulnerability assessment.</p>
 <p data-ke-size="size16">
 <b>[2012] President's Award</b> <small>Korea Internet &amp; Security Agency Cyber Attack Scenario Contest</small>
 </p>
-&nbsp;
-
-## SKILL SET
-
-<section>
-        <ul>
-          <li>
-            <b>Security</b>
-            <small>System Hacking, Reversing, Web</small>
-          </li>
-          <li>
-            <b>Programming</b> 
-            <small>C/C++, Assembly, Web, Python</small>
-          </li>
-        </ul>
-</section>
 &nbsp;
