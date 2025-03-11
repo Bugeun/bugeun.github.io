@@ -19,7 +19,6 @@ Vulnerability Researcher
 * System Hacking (+ Web pwn)
 * Binary Analysis
 * Computer Architecture
-* Software Engineering   
 
 &nbsp;
 
