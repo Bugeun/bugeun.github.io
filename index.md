@@ -11,17 +11,18 @@ Vulnerability Researcher
 
 ## ABOUT ME
 
-<p>I aspire to be the world's best in the field of vulnerability research, exploitation
-especially in software engineering.</p>
+<p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
 &nbsp;
 
 ><b>Interests</b>
 * Vulnerability Research & Exploitation
-* System Hacking
+* System Hacking (+ Web pwn)
 * Binary Analysis
 * Computer Architecture
+* Software Engineering   
 
 &nbsp;
+
 
 
 ## SKILL SET
@@ -29,8 +30,9 @@ especially in software engineering.</p>
 <section>
         <ul>
           <li>
-            <b>Offensive Security</b>
-          </li>
+            <b>Security</b>
+            <small>Pwnable, Reversing, Web, Crypto</small>
+          </li> 
           <li>
             <b>Programming</b> 
             <small>C/C++, Assembly, Web, Python</small>
