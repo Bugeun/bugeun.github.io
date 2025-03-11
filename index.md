@@ -16,7 +16,7 @@ especially in software vulnerability assessment.</p>
 &nbsp;
 
 ><b>Interests</b>
-* Software Vulnerability Research & Exploitation
+* Vulnerability Research & Exploitation
 * System Hacking
 * Binary Analysis
 * Computer Architecture
