@@ -12,11 +12,13 @@ Vulnerability Researcher
 ## ABOUT ME
 
 <p>I aspire to be the world's best in the field of vulnerability research, exploitation
-especially in software vulnerability assessment.</p>
+especially in software engineering.</p>
 &nbsp;
 
 ><b>Interests</b>
 * Vulnerability Research & Exploitation
+* System Hacking
+* Binary Analysis
 * Computer Architecture
 
 &nbsp;
@@ -27,8 +29,7 @@ especially in software vulnerability assessment.</p>
 <section>
         <ul>
           <li>
-            <b>Security</b>
-            <small>System Hacking, Reversing, Web</small>
+            <b>Offensive Security</b>
           </li>
           <li>
             <b>Programming</b> 
