@@ -11,7 +11,7 @@ Vulnerability Researcher
 
 ## ABOUT ME
 
-<p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.<br>
+<p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.
 For now, I enjoy conducting software vulnerability assessments from an offensive security perspective.</p>
 &nbsp;
 
