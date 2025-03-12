@@ -31,10 +31,6 @@ Vulnerability Researcher
             <b>Programming</b> 
             <small>C/C++, Assembly, Web, Python</small>
           </li>
-          <li>
-            <b>Security</b>
-            <small>Web, Crypto</small>
-          </li> 
         </ul>
 </section>
 &nbsp;
