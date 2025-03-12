@@ -14,23 +14,22 @@ Vulnerability Researcher
 <p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
 &nbsp;
 
-><b>Interests</b>
+><b>Main Interests</b>
 * System Hacking
 * Binary Analysis
 * Computer Architecture
 * Vulnerability Research & Exploitation
 * CTF Playing
 
-
 &nbsp;
 
-## SKILL SET
+## SUB SKILL SET
 
 <section>
         <ul>
           <li>
             <b>Security</b>
-            <small>Pwnable, Reversing, Web, Crypto</small>
+            <small>Web, Crypto</small>
           </li> 
           <li>
             <b>Programming</b> 
