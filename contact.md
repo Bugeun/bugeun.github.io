@@ -3,24 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [Gmail](mailto:choibugeun1007@gmail.com)
+* Phone: [touch]](tel:+82-01050159621)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
+> seoul
 ---
 
 ## Social
 
-1. [Facebook](#)
+1. [Dreamhack](https://dreamhack.io/users/58029)
 2. [Twitter](#)
 3. [Google+](#)
