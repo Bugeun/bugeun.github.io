@@ -15,14 +15,14 @@ Vulnerability Researcher
 &nbsp;
 
 ><b>Interests</b>
-* Vulnerability Research & Exploitation
-* System Hacking (+ Web pwn)
+* System Hacking
 * Binary Analysis
 * Computer Architecture
+* Vulnerability Research & Exploitation
+* CTF Playing
+
 
 &nbsp;
-
-
 
 ## SKILL SET
 
