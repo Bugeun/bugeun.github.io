@@ -19,7 +19,7 @@ Vulnerability Researcher
 * Binary Analysis
 * Computer Architecture
 * Vulnerability Research & Exploitation
-* CTF Playing
+* CTF Playing 
 
 &nbsp;
 
@@ -30,6 +30,10 @@ Vulnerability Researcher
           <li>
             <b>Programming</b> 
             <small>C/C++, Assembly, Web, Python</small>
+          </li>
+          <li>
+            <b>Security</b> 
+            <small>Web Security, Crypto</small>
           </li>
         </ul>
 </section>
