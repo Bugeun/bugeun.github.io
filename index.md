@@ -28,13 +28,13 @@ Vulnerability Researcher
 <section>
         <ul>
           <li>
-            <b>Security</b>
-            <small>Web, Crypto</small>
-          </li> 
-          <li>
             <b>Programming</b> 
             <small>C/C++, Assembly, Web, Python</small>
           </li>
+          <li>
+            <b>Security</b>
+            <small>Web, Crypto</small>
+          </li> 
         </ul>
 </section>
 &nbsp;
