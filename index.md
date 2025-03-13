@@ -23,7 +23,7 @@ Vulnerability Researcher
 
 &nbsp;
 
-## SUB SKILL SET
+## SUB SKILLS
 
 <section>
         <ul>
