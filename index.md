@@ -19,7 +19,6 @@ Vulnerability Researcher
 * Binary Analysis
 * Computer Architecture
 * Vulnerability Research & Exploitation
-* CTF Playing 
 
 &nbsp;
 
