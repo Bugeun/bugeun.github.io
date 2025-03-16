@@ -27,11 +27,15 @@ Vulnerability Researcher
         <ul>
           <li>
             <b>Security</b> 
-            <small>System Hacking, Binary Analysis, Bit of Web</small>
+            <small>System Hacking, Binary Analysis</small>
           </li>
           <li>
             <b>Programming</b> 
             <small>C/C++, Assembly, Web, Python</small>
+          </li>
+          <li>
+            <b>Basic</b>
+            <small>Web-Security</small>
           </li>
         </ul>
 </section>
