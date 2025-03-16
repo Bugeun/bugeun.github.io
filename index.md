@@ -35,7 +35,7 @@ Vulnerability Researcher
           </li>
           <li>
             <b>Basic</b>
-            <small>Web-Security</small>
+            <small>Web Security</small>
           </li>
         </ul>
 </section>
