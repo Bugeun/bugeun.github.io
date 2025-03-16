@@ -27,7 +27,7 @@ Vulnerability Researcher
         <ul>
           <li>
             <b>Security</b> 
-            <small>System Hacking, Binary Analysis</small>
+            <small>System Hacking, Binary Analysis, Bit of Web</small>
           </li>
           <li>
             <b>Programming</b> 
