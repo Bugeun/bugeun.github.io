@@ -14,25 +14,24 @@ Vulnerability Researcher
 <p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
 &nbsp;
 
-><b>Main Interests</b>
-* System Hacking
-* Binary Analysis
-* Computer Architecture
+><b>Interests</b>
+* CTF/Wargame
 * Vulnerability Research & Exploitation
+* Computer Architecture
 
 &nbsp;
 
-## SUB SKILLS
+## SKILL SET
 
 <section>
         <ul>
           <li>
-            <b>Programming</b> 
-            <small>C/C++, Assembly, Web, Python</small>
+            <b>Security</b> 
+            <small>System Hacking, Binary Analysis</small>
           </li>
           <li>
-            <b>Security</b> 
-            <small>Web Security, Crypto</small>
+            <b>Programming</b> 
+            <small>C/C++, Assembly, Web, Python</small>
           </li>
         </ul>
 </section>
