@@ -33,10 +33,6 @@ Vulnerability Researcher
             <b>Programming</b> 
             <small>C/C++, Assembly, Web, Python</small>
           </li>
-          <li>
-            <b>Basic</b>
-            <small>Web Security</small>
-          </li>
         </ul>
 </section>
 &nbsp;
