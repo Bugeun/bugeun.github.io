@@ -15,7 +15,7 @@ Vulnerability Researcher
 &nbsp;
 
 ><b>Interests</b>
-* CTF/Wargame <small>(System Hacking/Binary Analysis)</small>
+* CTF/Wargame
 * Binary Vulnerability Research & Exploitation
 * Computer Architecture
 
@@ -27,7 +27,7 @@ Vulnerability Researcher
         <ul>
           <li>
             <b>Security</b> 
-            <small>System Hacking, Binary Analysis, Web Security</small>
+            <small>System Hacking, Binary Analysis</small>
           </li>
           <li>
             <b>Programming</b> 
