@@ -17,7 +17,9 @@ Vulnerability Researcher
 
 ><b>Interests<b>
 * CTF/Wargame <small>System Hacking, Binary Analysis, Web Security</small>
+
 * Vulnerability Research & Exploitation
+
 * Analysis tool Development
 
 <!--
@@ -34,7 +36,7 @@ Vulnerability Researcher
 &nbsp; 
 
 ## EDUCATION
-
+  
 <p data-ke-size="size16">
 <b>[2020 - 2023] Seoul Arts University</b>
 </p>
