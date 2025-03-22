@@ -25,11 +25,8 @@ Vulnerability Researcher
 <section>
         <ul>
           <li>
-            <b>CTF/Wargame</b> 
+            <b>Security</b> 
             <small>System Hacking, Binary Analysis, Web</small>
-          </li>
-          <li>
-            <b>Vulnerability Research & Exploitation</b>
           </li>
           <li>
             <b>Programming</b> 
