@@ -18,7 +18,7 @@ Vulnerability Researcher
 * CTF/Wargame <small>[System Hacking, Binary Analysis, Web Security]</small>
 * Vulnerability Research & Exploitation
 * Fuzzer Development
-* System Architecture, Software Engineering
+* Computer Architecture, Software Engineering
 
 <!--
 <section>
