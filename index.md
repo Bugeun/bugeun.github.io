@@ -19,8 +19,6 @@ Vulnerability Researcher
 * Vulnerability Research & Exploitation
 * Computer Architecture
 
-&nbsp;  
-
 <!--
 ## SKILL SET
 -->
