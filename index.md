@@ -15,11 +15,12 @@ Vulnerability Researcher
 &nbsp;
 
 
->Interests
-* <b>CTF/Wargame</b> <small>[System Hacking, Binary Analysis, Web Security]</small>
-* <b>Vulnerability Research & Exploitation</b>
-* <b>Analysis tool Development</b>
-* <b>Computer Architecture, Software Engineering</b>
+><b>Interests<b>
+* CTF/Wargame <small>[System Hacking, Binary Analysis, Web Security]</small>
+* Vulnerability Research & Exploitation
+* Analysis tool Development
+* Computer Architecture
+* Software Engineering
 
 <!--
 <section>
