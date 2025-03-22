@@ -32,8 +32,9 @@ Vulnerability Researcher
           </li>
         </ul>
 </section>
+-->
 
-&nbsp; -->
+&nbsp; 
 
 ## EDUCATION
 
