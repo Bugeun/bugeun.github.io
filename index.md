@@ -18,7 +18,7 @@ Vulnerability Researcher
 * CTF/Wargame <small>[System Hacking, Binary Analysis, Web Security]</small>
 * Vulnerability Research & Exploitation
 * Fuzzer Development
-<!-->
+<!--
 <section>
         <ul>
           <li>
@@ -31,9 +31,9 @@ Vulnerability Researcher
           </li>
         </ul>
 </section>
--->
-&nbsp;
 
+&nbsp;
+-->
 
 ## EDUCATION
 
