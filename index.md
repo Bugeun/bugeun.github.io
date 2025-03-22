@@ -14,11 +14,12 @@ Security Researcher
 
 
 ><b>Interests<b>
-* CTF/Wargame <small>(System Hacking, Binary Analysis, Web Security)</small>
+* CTF/Wargame <small>(System Hacking, Binary Analysis, Web)</small>
 * Vulnerability Research & Exploitation
 * Analysis tool Development
 * Computer Science
 &nbsp; 
+
 <!--
 <section>
         <ul>
@@ -29,6 +30,7 @@ Security Researcher
         </ul>
 </section>
 -->
+
 <p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
 &nbsp;
 
