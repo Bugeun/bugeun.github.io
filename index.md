@@ -5,7 +5,7 @@ layout: default
 <img class="profile-picture" src="Rebekah.jpg">
 <h1><b>Bugeun Choi</b></h1>
 <p style="font-size: 1.2em; color: #666;" data-ke-size="size16">
-Vulnerability Researcher
+Security Researcher
 </p>
 &nbsp;
 
