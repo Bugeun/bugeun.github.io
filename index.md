@@ -14,11 +14,12 @@ Vulnerability Researcher
 <p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
 &nbsp;
 
-><b>Interests</b>
-* CTF/Wargame <small>[System Hacking, Binary Analysis, Web Security]</small>
-* Vulnerability Research & Exploitation
-* Fuzzer Development
-* Computer Architecture, Software Engineering
+## INTERESTS
+>
+* <b>CTF/Wargame</b> <small>[System Hacking, Binary Analysis, Web Security]</small>
+* <b>Vulnerability Research & Exploitation</b>
+* <b>Analysis tool Development</b>
+* <b>Computer Architecture, Software Engineering</b>
 
 <!--
 <section>
