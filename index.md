@@ -19,7 +19,6 @@ Vulnerability Researcher
 * CTF/Wargame <small>[System Hacking, Binary Analysis, Web Security]</small>
 * Vulnerability Research & Exploitation
 * Analysis tool Development
-* Computer Architecture & Software Engineering
 
 <!--
 <section>
