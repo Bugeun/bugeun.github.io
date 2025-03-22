@@ -21,6 +21,7 @@ Security Researcher
 * CTF/Wargame <small>(System Hacking, Binary Analysis, Web)</small>
 * Analysis tool Development
 * Computer Science
+
 &nbsp; 
 
 <!--
