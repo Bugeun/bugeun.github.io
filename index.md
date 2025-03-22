@@ -16,11 +16,9 @@ Vulnerability Researcher
 
 
 ><b>Interests<b>
-* CTF/Wargame <small>(System Hacking, Binary Analysis, Web Security)</small>
-
-* Vulnerability Research & Exploitation
-
-* Analysis tool Development
+* <p>CTF/Wargame <small>(System Hacking, Binary Analysis, Web Security)</small></p>
+* <p>Vulnerability Research & Exploitation</p>
+* <p>Analysis tool Development</p>
 
 <!--
 <section>
