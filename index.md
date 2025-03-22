@@ -17,13 +17,14 @@ Vulnerability Researcher
 ><b>Interests</b>
 * CTF/Wargame
 * Vulnerability Research & Exploitation
-* Computer Architecture
+* Fuzzer Development
 
+<b>SKILLS</b>
 <section>
         <ul>
           <li>
             <b>Security</b> 
-            <small>System Hacking, Binary Analysis, Web</small>
+            <small>System Hacking, Binary Analysis, Web Security</small>
           </li>
           <li>
             <b>Programming</b> 
