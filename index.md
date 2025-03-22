@@ -14,9 +14,7 @@ Vulnerability Researcher
 <p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
 &nbsp;
 
-## Interests
-
->
+><b>Interests</b>
 * CTF/Wargame
 * Vulnerability Research & Exploitation
 * Computer Architecture
