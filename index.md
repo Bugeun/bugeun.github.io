@@ -11,8 +11,6 @@ Security Researcher
 
 ## ABOUT ME
 
-<p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
-&nbsp;
 
 
 ><b>Interests<b>
@@ -20,7 +18,7 @@ Security Researcher
 * Vulnerability Research & Exploitation
 * Analysis tool Development
 * Computer Science
-
+&nbsp; 
 <!--
 <section>
         <ul>
@@ -31,8 +29,8 @@ Security Researcher
         </ul>
 </section>
 -->
-
-&nbsp; 
+<p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
+&nbsp;
 
 ## EDUCATION
   
