@@ -16,14 +16,14 @@ Vulnerability Researcher
 
 ><b>Interests</b>
 * CTF/Wargame
-* Binary Vulnerability Research & Exploitation
+* Vulnerability Research & Exploitation
 * Computer Architecture
 
-&nbsp;
+&nbsp;  
 
 <!--
 ## SKILL SET
-
+-->
 <section>
         <ul>
           <li>
@@ -37,7 +37,7 @@ Vulnerability Researcher
         </ul>
 </section>
 &nbsp;
--->
+
 
 ## EDUCATION
 
