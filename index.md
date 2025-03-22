@@ -21,6 +21,7 @@ Vulnerability Researcher
 
 &nbsp;
 
+<!--
 ## SKILL SET
 
 <section>
@@ -36,7 +37,7 @@ Vulnerability Researcher
         </ul>
 </section>
 &nbsp;
-
+-->
 
 ## EDUCATION
 
