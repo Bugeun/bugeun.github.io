@@ -30,14 +30,14 @@ Security Researcher
 <section>
         <ul>
           <li>
+          <b>Security Skill</b>
+          <small>System Hacking / Binary Analysis / Web</small>
+          </li>
+          <li>
           <b>Research</b> 
           <small>N-day Analysis / 0-day Hunting / Exploit Dev</small>
           </li>
           <li>
-          <b>System Hacking / Binary Analysis / Web</b>
-          </li>
-          <li>
-          <b>Analysis tool Development</b>
           </li>
           <li>
           <b>Computer Science</b>
