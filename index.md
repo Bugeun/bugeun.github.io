@@ -40,7 +40,7 @@ Security Researcher
     </li>
     <li>
     <b>Vulnerability Research</b>
-    <small>App / IoT / V8</small>
+    <small>Application / IoT / V8</small>
     </li>
     <li>
     <b>Anaysis Tool Development</b>
