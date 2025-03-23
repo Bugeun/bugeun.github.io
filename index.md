@@ -50,18 +50,6 @@ Security Researcher
 
 &nbsp;
 
-
-<!--
-<section>
-        <ul>
-          <li>
-            <b>Programming</b> 
-            <small>C/C++, Assembly, Web, Python</small>
-          </li>
-        </ul>
-</section>
--->
-
 ## EDUCATION
   
 <p data-ke-size="size16">
