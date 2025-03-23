@@ -12,12 +12,12 @@ Security Researcher
 ## ABOUT ME
 
 
-<p>I aspire to be the world's best in vulnerability research and exploitation within the field of software engineering.</p>
+<p>I aspire to be the world's best in vulnerability research and exploit dev within the field of software engineering.</p>
 &nbsp;
 
 
 ><b>Interests<b>
-* Vulnerability Research & Exploit Dev <small>(1-day, 0-day)</small>
+* <li>Vulnerability Research & Exploit Dev</li> <small>(1-day, 0-day)</small>
 * CTF/Wargame <small>(System Hacking, Binary Analysis, Web)</small>
 * Analysis tool Development
 * Computer Science
