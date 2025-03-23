@@ -34,14 +34,11 @@ Security Researcher
           <small>Pwnable / Binary Analysis / Web</small>
           </li>
           <li>
-          <b>N-day Analysis</b> 
+          <b>Research</b> 
+          <small>N-day Analysis / 0-day Hunting / Exploit Dev</small>
           </li>
           <li>
-          <b>0-day Hunting</b>
-          <small>IoT, V8</small>
-          </li>
-          <li>
-          <b>Exploit, Anaysis Tool Development</b>
+          <b>Anaysis Tool Development</b>
           </li>
           <li>
           <b>Computer Science</b>
