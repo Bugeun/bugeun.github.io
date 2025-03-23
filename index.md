@@ -36,7 +36,7 @@ Security Researcher
             </li>
             <li>
             <b>Research</b> 
-            <small>N-day Analysis / Bug Hunting</small>
+            <small>Software Internals / N-day Analysis / Bug Hunting</small>
             </li>
             <li>
             <b>Anaysis Tool Development</b>
