@@ -5,7 +5,7 @@ layout: default
 <img class="profile-picture" src="Rebekah.jpg">
 <h1><b>Bugeun Choi</b></h1>
 <p style="font-size: 1.2em; color: #666;" data-ke-size="size16">
-Vulnerability Researcher
+Security Researcher
 </p>
 &nbsp;
 
@@ -13,7 +13,6 @@ Vulnerability Researcher
 
 
 <p>I aspire to be the world's best in vulnerability research and exploit develop within the field of software engineering.</p>
-<small>(Mostly) IoT, V8</small>
 &nbsp;
 
 <!--
@@ -35,11 +34,14 @@ Vulnerability Researcher
           <small>Pwnable / Binary Analysis / Web</small>
           </li>
           <li>
-          <b>Research</b> 
-          <small>N-day Analysis / 0-day Hunting / Exploit Dev</small>
+          <b>N-day Analysis</b> 
           </li>
           <li>
-          <b>Anaysis Tool Development</b>
+          <b>0-day Hunting</b>
+          <small>IoT, V8</small>
+          </li>
+          <li>
+          <b>Exploit, Anaysis Tool Development</b>
           </li>
           <li>
           <b>Computer Science</b>
