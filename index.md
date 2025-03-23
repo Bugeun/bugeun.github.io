@@ -29,25 +29,26 @@ Security Researcher
 ## Interests
 <section>
 <b>[Vulnerability discovery, Exploit develop]</b>
-        <ul>
-          <li>
-          <b>Security Skills</b>
-          <small>Pwnable / Binary Analysis / Web</small>
-          </li>
-          <li>
-          <b>Research</b> 
-          <small>Software Internals / N-day Analysis / Bug Hunting</small>
-          </li>
-          <li>
-          <b>Vulnerability Research</b>
-          <small>App / IoT / V8</small>
-          <li>
-          <b>Anaysis Tool Development</b>
-          </li>
-          <li>
-          <b>Computer Science</b>
-          </li>
-        </ul>
+  <ul>
+    <li>
+    <b>Security Skills</b>
+    <small>Pwnable / Binary Analysis / Web</small>
+    </li>
+    <li>
+    <b>Research</b> 
+    <small>Software Internals / N-day Analysis / Bug Hunting</small>
+    </li>
+    <li>
+    <b>Vulnerability Research</b>
+    <small>App / IoT / V8</small>
+    </li>
+    <li>
+    <b>Anaysis Tool Development</b>
+    </li>
+    <li>
+    <b>Computer Science</b>
+    </li>
+  </ul>
 </section>
 
 &nbsp;
