@@ -29,11 +29,11 @@ Security Researcher
         <ul>
           <li>
             <b>Vulnerability Research & Exploit De</b> 
-            <small>1-day, 0-day</small>
+            <small>1-day/ 0-day</small>
           </li>
           <li>
           <b>CTF/Wargame</b>
-          <small>(System Hacking, Binary Analysis, Web)</small>
+          <small>System Hacking/ Binary Analysis/ Web</small>
           </li>
           <li>
           <b>Analysis tool Development</b>
