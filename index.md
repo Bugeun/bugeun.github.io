@@ -31,7 +31,7 @@ Vulnerability Researcher
         <ul>
           <li>
           <b>Security Skills</b>
-          <small>System Hacking / Binary Analysis / Web</small>
+          <small>Pwnable / Binary Analysis / Web</small>
           </li>
           <li>
           <b>Research</b> 
