@@ -27,7 +27,7 @@ Security Researcher
 -->
 
 ## Interests
-  <b>Vulnerability discovery, Exploit develop</b>
+<b>Vulnerability discovery, Exploit develop</b>
   <br>
     <section>
         <ul>
