@@ -27,9 +27,9 @@ Security Researcher
 -->
 
 ## Interests
-  <section>
+<section>
+<b>Vulnerability discovery, Exploit develop</b>
           <ul>
-          <b>Vulnerability discovery, Exploit develop</b>
             <li>
             <b>Security Skills</b>
             <small>Pwnable / Binary Analysis / Web</small>
@@ -45,7 +45,7 @@ Security Researcher
             <b>Computer Science</b>
             </li>
           </ul>
-  </section>
+</section>
 
 &nbsp;
 
