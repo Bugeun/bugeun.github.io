@@ -28,7 +28,7 @@ Security Researcher
 <section>
         <ul>
           <li>
-            <b>Vulnerability Research & Exploit De</b> 
+            <b>Vulnerability Research & Exploit Dev</b> 
             <small>1-day/ 0-day</small>
           </li>
           <li>
