@@ -13,7 +13,7 @@ Vulnerability Researcher
 
 
 <p>I aspire to be the world's best in vulnerability research and exploit develop within the field of software engineering.</p>
-</br><small>(Mostly) IoT, V8</small>
+<small>(Mostly) IoT, V8</small>
 &nbsp;
 
 <!--
