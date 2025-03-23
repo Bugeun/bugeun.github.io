@@ -34,8 +34,7 @@ Security Researcher
           <small>1-day / 0-day</small>
           </li>
           <li>
-          <b>CTF/Wargame</b>
-          <small>System Hacking / Binary Analysis / Web</small>
+          <b>System Hacking / Binary Analysis / Web</b>
           </li>
           <li>
           <b>Analysis tool Development</b>
