@@ -17,8 +17,8 @@ Security Researcher
 
 ## Interests
 >
-* <b>Vulnerability Research & Exploit Dev</b> <small>(1-day, 0-day)</small>
-* <b>CTF/Wargame</b> <small>(System Hacking, Binary Analysis, Web)</small>
+* <b>Vulnerability Research & Exploit Dev</b> <small>1-day / 0-day</small>
+* <b>CTF/Wargame</b> <small>System Hacking / Binary Analysis / Web</small>
 * <b>Analysis tool Development</b>
 * <b>Computer Science</b>
 
