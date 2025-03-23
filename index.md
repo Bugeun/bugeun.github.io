@@ -15,6 +15,7 @@ Security Researcher
 <p>I aspire to be the world's best in vulnerability research and exploit dev within the field of software engineering.</p>
 &nbsp;
 
+<!--
 ## Interests
 >
 * <b>Vulnerability Research & Exploit Dev</b> <small>1-day / 0-day</small>
@@ -23,8 +24,8 @@ Security Researcher
 * <b>Computer Science</b>
 
 &nbsp; 
+-->
 
-<!--
 ## Interests
 <section>
         <ul>
@@ -46,7 +47,7 @@ Security Researcher
 </section>
 
 &nbsp;
--->
+
 
 <!--
 <section>
