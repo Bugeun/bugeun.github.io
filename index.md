@@ -35,7 +35,7 @@ Security Researcher
           </li>
           <li>
           <b>Research</b> 
-          <small>N-day Analysis / 0-day Hunting / Exploit Dev</small>
+          <small>N-day Analysis / Bug Hunting(IoT,V8) / Exploit Dev</small>
           </li>
           <li>
           <b>Anaysis Tool Development</b>
