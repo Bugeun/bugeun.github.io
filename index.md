@@ -12,7 +12,7 @@ Security Researcher
 ## ABOUT ME
 
 
-<p>I aspire to be the world's best in vulnerability research and exploit develop within the field of software engineering.</p>
+<p>I aspire to be the world's best in vulnerability discovery and exploit develop within the field of software engineering.</p>
 &nbsp;
 
 <!--
@@ -35,7 +35,7 @@ Security Researcher
           </li>
           <li>
           <b>Research</b> 
-          <small>N-day Analysis / Bug Hunting(IoT,V8) / Exploit Dev</small>
+          <small>N-day Analysis / Bug Hunting / Exploit Dev</small>
           </li>
           <li>
           <b>Anaysis Tool Development</b>
