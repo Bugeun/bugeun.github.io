@@ -38,6 +38,7 @@ Vulnerability Researcher
           <small>N-day Analysis / 0-day Hunting / Exploit Dev</small>
           </li>
           <li>
+          <b>Programming</b>
           </li>
           <li>
           <b>Computer Science</b>
