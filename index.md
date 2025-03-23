@@ -12,7 +12,7 @@ Security Researcher
 ## ABOUT ME
 
 
-<p>I aspire to be the world's best in vulnerability discovery and exploit develop within the field of software engineering.</p>
+<p>I aspire to be the world's best in vulnerability research within the field of software engineering.</p>
 &nbsp;
 
 <!--
@@ -27,24 +27,25 @@ Security Researcher
 -->
 
 ## Interests
-<section>
-        <ul>
-          <li>
-          <b>Security Skills</b>
-          <small>Pwnable / Binary Analysis / Web</small>
-          </li>
-          <li>
-          <b>Research</b> 
-          <small>N-day Analysis / Bug Hunting / Exploit Dev</small>
-          </li>
-          <li>
-          <b>Anaysis Tool Development</b>
-          </li>
-          <li>
-          <b>Computer Science</b>
-          </li>
-        </ul>
-</section>
+  <b>Vulnerability discovery, Exploit develop</b>
+    <section>
+            <ul>
+              <li>
+              <b>Security Skills</b>
+              <small>Pwnable / Binary Analysis / Web</small>
+              </li>
+              <li>
+              <b>Research</b> 
+              <small>N-day Analysis / Bug Hunting / Exploit Dev</small>
+              </li>
+              <li>
+              <b>Anaysis Tool Development</b>
+              </li>
+              <li>
+              <b>Computer Science</b>
+              </li>
+            </ul>
+    </section>
 
 &nbsp;
 
