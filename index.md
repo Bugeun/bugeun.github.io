@@ -30,7 +30,7 @@ Vulnerability Researcher
 <section>
         <ul>
           <li>
-          <b>Security Skill</b>
+          <b>Security Skills</b>
           <small>System Hacking / Binary Analysis / Web</small>
           </li>
           <li>
@@ -39,7 +39,6 @@ Vulnerability Researcher
           </li>
           <li>
           <b>Programming</b>
-          <small>C,C++ / Assembly / Python / Web</small>
           </li>
           <li>
           <b>Computer Science</b>
