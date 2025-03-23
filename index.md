@@ -28,8 +28,8 @@ Security Researcher
 
 ## Interests
 <b>Vulnerability discovery, Exploit develop</b>
-  <br>
-    <section>
+<br>
+<section>
         <ul>
           <li>
           <b>Security Skills</b>
@@ -46,7 +46,7 @@ Security Researcher
           <b>Computer Science</b>
           </li>
         </ul>
-    </section>
+</section>
 
 &nbsp;
 
