@@ -15,22 +15,22 @@ Security Researcher
 <p>I aspire to be the world's best in vulnerability research and exploit dev within the field of software engineering.</p>
 &nbsp;
 
-<!--
-><b>Interests<b>
+## Interests
+>
 * <b>Vulnerability Research & Exploit Dev</b> <small>(1-day, 0-day)</small>
 * <b>CTF/Wargame</b> <small>(System Hacking, Binary Analysis, Web)</small>
 * <b>Analysis tool Development</b>
 * <b>Computer Science</b>
 
 &nbsp; 
--->
+
 
 ## Interests
 <section>
         <ul>
           <li>
-            <b>Vulnerability Research & Exploit Dev</b> 
-            <small>1-day / 0-day</small>
+          <b>Vulnerability Research & Exploit Dev</b> 
+          <small>1-day / 0-day</small>
           </li>
           <li>
           <b>CTF/Wargame</b>
