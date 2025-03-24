@@ -46,6 +46,7 @@ Security Researcher
     </li>
   </ul>
 </section>
+<br>
 <b>[Writing an Analysis Report]</b>
 
 &nbsp;
