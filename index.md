@@ -39,10 +39,6 @@ Security Researcher
     <small>Software Internal / N-day Analysis / Bug Hunting</small>
     </li>
     <li>
-    <b>Vulnerability Research</b>
-    <small>Application / IoT / V8</small>
-    </li>
-    <li>
     <b>Anaysis Tool Development</b>
     </li>
     <li>
