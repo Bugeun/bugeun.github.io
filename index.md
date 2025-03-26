@@ -76,9 +76,6 @@ Security Researcher
 ### CVE
 
 [V8]
-
-<br>
-
 [IoT]
 
 &nbsp;
