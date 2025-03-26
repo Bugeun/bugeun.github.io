@@ -70,14 +70,19 @@ Security Researcher
 
 ## VULNERABILITY REPORTS
 <p data-ke-size="size16"><b>[2013] OCS (Order Communication System) at a Major Hospital in Changwon</b></p>
-&nbsp;
 
 ----
 
 ### CVE
 
 [V8]
+
+<br>
+
 [IoT]
+
+&nbsp;
+
 
 ## ACHIEVEMENTS
 
