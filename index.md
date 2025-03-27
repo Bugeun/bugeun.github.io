@@ -37,13 +37,14 @@ Security Researcher
     </li>
     <li>
     <b>Research</b> 
-    <small>Software Internal / N-day Analysis / Bug Hunting</small>
+    <small>N-day Analysis / Bug Hunting</small>
     </li>
     <li>
     <b>Anaysis Tool Development</b>
     </li>
     <li>
     <b>Computer Science</b>
+    <small>Software Internal</small>
     </li>
   </ul>
 </section>
