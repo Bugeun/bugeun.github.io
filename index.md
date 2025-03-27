@@ -27,6 +27,7 @@ Security Researcher
 -->
 
 ## Interests
+
 <b>[Vulnerability discovery, Exploit develop]</b>
 <br>
 <section style="padding-left: 1em;">
@@ -42,14 +43,12 @@ Security Researcher
     <li>
     <b>Anaysis Tool Development</b>
     </li>
-    <li>
-    <b>Computer Science</b>
-    <small>Software Internal</small>
-    </li>
   </ul>
 </section>
 <br>
 <b>[Writing an Analysis Report]</b>
+<br>
+<b>[Software, System]</b>
 
 &nbsp;
 
