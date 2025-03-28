@@ -12,7 +12,7 @@ Security Researcher
 ## ABOUT ME
 
 
-<p>I aspire to be the world's best in vulnerability research within the field of software engineering.</p>
+<p>I aspire to be the world's best security researcher within the field of software engineering.</p>
 &nbsp;
 
 <!--
@@ -37,18 +37,17 @@ Security Researcher
     <small>System Hacking / Binary Analysis / Web</small>
     </li>
     <li>
-    <b>Research</b> 
-    <small>N-day Analysis / Bug Hunting(V8,IoT)</small>
+    <b>Security Research</b> 
+    <small>N-day Analysis / JS Engine / IoT</small>
     </li>
     <li>
     <b>Anaysis Tool Development</b>
     </li>
+    <li>
+    <b>Software, System</b>
+    </li>
   </ul>
 </section>
-<br>
-<b>[Writing an Analysis Report]</b>
-<br>
-<b>[Software, System]</b>
 
 &nbsp;
 
