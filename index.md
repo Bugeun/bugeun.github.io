@@ -28,8 +28,6 @@ Security Researcher
 &nbsp; 
 -->
 
-&nbsp;
-
 ## EDUCATION
   
 <p data-ke-size="size16">
