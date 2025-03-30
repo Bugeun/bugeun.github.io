@@ -19,12 +19,6 @@ Security Researcher
 
 <p><small>또한 보다 더 직관적이고 추상화 된 디자인을 위한 소프트웨어 엔지니어링에도 관심이 많습니다.</small></p>
 
-<p>I am deeply committed to understanding the essence of software beyond its outward form.
-Grounded in programming language theory, computer architecture, and system modeling, I strive to develop the insight necessary to grasp software behavior swiftly and precisely—unconstrained by syntactic form or implementation detail.
-
-My passion lies in investigating the internal structures of software and studying real-world vulnerability cases, with the aim of uncovering new flaws and crafting original exploits.
-
-I am equally drawn to software engineering practices that embrace conceptual clarity and intuitive abstraction, aspiring to design systems that are not only effective, but fundamentally elegant.</p>
 &nbsp;
 
 <!--
