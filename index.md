@@ -11,13 +11,10 @@ Security Researcher
 
 ## ABOUT ME
 
+<p><small>저는 컴퓨터 과학 이론 공부와 함께 많은 소프트웨어와 시스템들의 구조 분석을 통해 언어적 형식과 구현에 적응하고 더 나아가 그것에 얽매이지 않는 본질적인 이해를 바탕으로 소프트웨어의
+동작 흐름을 빠르고 정확하게 분석하는 직관을 기르고 그 속에서 새로운 결함을 발견하고 익스플로잇 하는 것에 깊은 열정을 가지고 있습니다.</p></small>
 
-<p><small>저는 소프트웨어의 본질을 깊이 이해하는 것을 목표로 두고있습니다.</small></p>
-
-<p><small>프로그래밍 언어론, 컴퓨터 아키텍처, 시스템 모델 등에 대한 이해를 바탕으로 언어적 형식과 구현에 얽매이지 않고 소프트웨어의 동작 흐름을 빠르고 정확하게 읽는 통찰력을 기르고
-다양한 소프트웨어의 내부 구조와 취약점 사례들을 탐구하여 그 속에서 새로운 취약점을 찾고 익스플로잇 하는 것에 깊은 열정을 가지고 있습니다.</small></p>
-
-<p><small>또한 보다 더 직관적이고 추상화 된 디자인을 위한 소프트웨어 엔지니어링에도 관심이 많습니다.</small></p>
+<p><small>때론 직관적이고 추상화 된 디자인을 위한 소프트웨어 엔지니어링 방식에도 관심을 가지고 있습니다</small></p>
 
 &nbsp;
 
@@ -31,26 +28,6 @@ Security Researcher
 
 &nbsp; 
 -->
-
-## Interests
-
-<b>[Vulnerability discovery, Exploit develop]</b>
-<br>
-<section style="padding-left: 1em;">
-  <ul>
-    <li>
-    <b>Security Skills</b>
-    <small>System Hacking / Binary Analysis / Web</small>
-    </li>
-    <li>
-    <b>Vulnerability Research</b> 
-    <small>N-day Analysis / JS Engine / IoT</small>
-    </li>
-    <li>
-    <b>Anaysis Tool Development</b>
-    </li>
-  </ul>
-</section>
 
 &nbsp;
 
