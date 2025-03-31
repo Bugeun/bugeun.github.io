@@ -5,13 +5,13 @@ layout: default
 <img class="profile-picture" src="Rebekah.jpg">
 <h1><b>Bugeun Choi</b></h1>
 <p style="font-size: 1.2em; color: #666;" data-ke-size="size16">
-Security Researcher
+IT Engineer
 </p>
 &nbsp;
 
 ## ABOUT ME
 
-<p>저는 컴퓨터 과학을 공부하여 컴퓨터의 언어적 형식과 패턴, 구조들을 익히면서 소프트웨어의 동작 흐름을 쉽고 빠르게 이해하는 직관을 기르고 상용 소프트웨어들을 분석해보며 결함을 찾고 다양한 공격 기법들을 연구하며 익스플로잇을 개발하는 과정에서 큰 즐거움을 느끼고 있습니다.</p>
+<p>저는 컴퓨터 구조와 소프트웨어의 언어적 형식과 패턴들에 익숙해져 본질적인 이해를 바탕으로 동작 흐름을 빠르고 정확하게 분석하여 결함을 찾고 익스플로잇하는 능력을 기르는 과정속에서 큰 즐거움을 느끼고 있습니다.</p>
 
 &nbsp;
 
