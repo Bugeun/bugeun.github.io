@@ -11,12 +11,12 @@ IT Engineer
 
 ## ABOUT ME
 
-<p>저는 컴퓨터의 구조와 언어적 형식 및 패턴들에 적응해가며 소프트웨어의 동작 흐름을 직관적으로 분석하고, 그 속에서 결함을 찾아 익스플로잇하는 능력을 기르는 과정에서 큰 즐거움을 느끼고 있습니다.</p>
+<p>저는 컴퓨터의 구조와 언어적 형식 및 패턴들에 적응해가며 소프트웨어의 본질적인 동작 흐름을 직관적으로 분석하고, 그 속에서 결함을 찾아 익스플로잇하는 능력을 기르는 과정에서 큰 즐거움을 느끼고 있습니다.</p>
 
 &nbsp;
 
 ## Interests
-
+    
 * Software Analysis
 * Computer Science
 * Vulnerability Research <small>N-day / JS Engine / IoT</small>
