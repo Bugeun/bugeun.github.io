@@ -13,14 +13,16 @@ IT Engineer
 
 <p>저는 컴퓨터의 구조 및 시스템과 언어 이론, 패턴들을 탐구하면서 소프트웨어의 본질적인 동작 흐름을 직관적으로 분석하고, 그 속에서 결함을 찾아 익스플로잇하는 능력을 기르는 과정속에서 큰 즐거움을 느끼고 있습니다.</p>
 
+<p>저의 목표는 무엇을 연구하고 출판을 하는</p>
+
 &nbsp;
 
 ## Interests
 
-* Software Analysis
-* Computer Systems
-* Vulnerability Research <small>N-day / JS Engine / IoT</small>
-* Security Skills <small>System hacking / RE / Web </small>
+* <b>Software Analysis</b>
+* <b>Computer Systems</b>
+* <b>Vulnerability Research</b> <small>N-day / JS Engine / IoT</small>
+* <b>Security Skills</b> <small>System hacking / RE / Web </small>
 
 &nbsp;
 
