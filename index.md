@@ -5,21 +5,20 @@ layout: default
 <img class="profile-picture" src="Rebekah.jpg">
 <h1><b>Bugeun Choi</b></h1>
 <p style="font-size: 1.2em; color: #666;" data-ke-size="size16">
-IT Engineer
+Security Researcher
 </p>
 &nbsp;
 
 ## ABOUT ME
 
-<p>저는 컴퓨터의 구조와 시스템, 언어 이론과 패턴들을 탐구하면서 소프트웨어의 본질적인 동작 흐름을 직관적으로 분석하고, 그 속에서 결함을 찾아 익스플로잇하는 능력을 기르고 연구지식을 공유하는 과정속에서 큰 즐거움을 느끼고 있습니다.</p>
+<p>저는 컴퓨터 구조와 시스템, 언어 이론과 패턴들에 적응하는 것을 목표로 컴퓨터 과학을 공부하며 소프트웨어의 논리적 흐름을 직관적으로 분석하고 결함을 찾아 익스플로잇하는 과정에서 큰 즐거움을 느끼고 있습니다.</p>
 
 &nbsp;
 
 ## Interests
 
-* <b>PLT</b>
-* <b>Software Analysis</b>
-* <b>Computer Architecture</b>
+* <b>Programming</b>
+* <b>Computer Architecture, Systems</b>
 * <b>Vulnerability Research</b> <small>N-day / JS Engine / IoT</small>
 * <b>Security Skills</b> <small>System hacking / RE / Web </small>
 
