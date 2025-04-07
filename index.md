@@ -11,12 +11,12 @@ Security Researcher
 
 ## ABOUT ME
 
-<p>저는 컴퓨터와 시스템 설계의 본질을 탐구하고 프로그래밍 언어적 사고력을 길러 소프트웨어의 논리적인 흐름안에서 많은 결함들을 단시간에 발견해내는 것을 목표로 컴퓨터 과학, 바이너리 분석, 취약점 분석과 익스플로잇을 연구하는 과정에서 큰 즐거움을 느낍니다.</p>
+<p>저는 컴퓨터 설계 원리와 구조에 대한 본질적인 이해와 경험 지식을 바탕으로 직관적으로 소프트웨어의 논리 흐름을 파악하고 취약점을 찾아 익스플로잇 하는 것을 목표로 나아가는 과정에서 큰 즐거움을 느낍니다. </p>
 
 &nbsp;
 
 ## Interests
-
+    
 * <b>Programming</b>
 * <b>Computer Architecture, Systems</b>
 * <b>Vulnerability Research</b> <small>N-day / JS Engine / IoT</small>
