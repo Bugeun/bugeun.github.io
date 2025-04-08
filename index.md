@@ -15,26 +15,6 @@ Security Researcher
 
 &nbsp;
 
-## Interests
-    
-* <b>Programming</b>
-* <b>Computer Architecture, Systems</b>
-* <b>Vulnerability Research</b> <small>N-day / JS Engine / IoT</small>
-* <b>Security Skills</b> <small>System hacking / RE / Web </small>
-
-&nbsp;
-
-<!--
-## Interests
->
-* <b>Vulnerability Research & Exploit Dev</b> <small>1-day / 0-day</small>
-* <b>CTF/Wargame</b> <small>System Hacking / Binary Analysis / Web</small>
-* <b>Analysis tool Development</b>
-* <b>Computer Science</b>
-
-&nbsp; 
--->
-
 ## EDUCATION
   
 <p data-ke-size="size16">
