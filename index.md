@@ -13,7 +13,7 @@ Security Researcher
 
 <p>저는 <b>System Hacking, Binary Analysis, 0-day Bug Hunting</b>을 주로 공부하며, 바이너리를 분석하고 취약점을 찾는 과정에서 즐거움을 느낍니다.</p>
 
-<p>현재 저의 목표는 <b>Computational Thinking</b>을 길러 다양한 아키텍처에서 <b>language-Specific</b>을 벗어난 바이너리 레벨의 동작 흐름을 직관적으로 분석하고 취약점을 찾을 수 있는 세계 최고의 버그 헌터가 되는것입니다.</p>
+<p>현재 저의 목표는 <b>Computational Thinking</b>을 기르고 <b>language-Specific</b>을 벗어나 다양한 아키텍처를 가진 바이너리 레벨의 동작 흐름을 직관적으로 분석하고 취약점을 찾을 수 있는 세계 최고의 버그 헌터가 되는것입니다.</p>
 
 &nbsp;
 
