@@ -14,8 +14,6 @@ Security Researcher
 <p>저는 <b>language-Specific</b>을 벗어나 아키텍처 관계없이 다양한 바이너리를 직관적으로 분석하고 빠르게 취약점을 찾아 익스플로잇 하기위해 공부하고 있습니다.</p>
 
 &nbsp;
-
-&nbsp;
     
 ## EDUCATION
   
